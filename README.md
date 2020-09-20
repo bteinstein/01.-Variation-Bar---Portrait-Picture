@@ -1,3 +1,3 @@
 Pixelated Variation Bar Plot 
 
-![plot/]
+<img src="gif/pixelated_bt01_compressed.gif">
